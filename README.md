@@ -1,2 +1,15 @@
 # Assignments
 hey, I am jyoti , and  here,  I am doing my python assignments .
+# Assignment 1 – Basic Python Concepts
+
+This repository contains solutions for Assignment 1 of Module 2 (Basic Python Concepts).
+
+## Task 1: Basic Mathematical Operations
+- Takes two numbers from the user
+- Performs addition, subtraction, multiplication, and division
+- Displays the result of each operation
+
+## Task 2: Personalized Greeting
+- Takes user's first name and last name
+- Combines them into a full name
+- Displays a personalized greeting message

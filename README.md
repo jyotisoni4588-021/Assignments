@@ -1,3 +1,4 @@
+
 # Assignment 1 - Basic Python Concepts 
 
 This repository contains solutions for Assignement 1 of Module 2( Basic Python Concepts).
@@ -13,6 +14,5 @@ This repository contains solutions for Assignement 1 of Module 2( Basic Python C
 -Displays a personalized greeting message
 
 ## how to Run
-'''bash
 python task1_math.py
 python task2_greeting.py
